@@ -878,7 +878,7 @@ export default function CyberpunkPortfolio() {
             <a href="https://www.linkedin.com/in/yuraj-gupta-576b41313/" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a>
             {/* <a href="Yuraj_Gupta_Resume.pdf" onClick={(e) => e.preventDefault()}>⬇️ Download Resume</a>
              */}
-             <a href="assets/Yuraj_Gupta_Resume.pdf" download>⬇️ Download Resume</a>
+             <a href="public/Yuraj_Gupta_Resume.pdf" download>⬇️ Download Resume</a>
 
           </div>
         </header>
