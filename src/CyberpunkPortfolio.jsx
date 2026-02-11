@@ -912,7 +912,7 @@ export default function CyberpunkPortfolio() {
               <p>Bangalore University</p>
               <p className="year">2022 – 2025</p>
               
-                            <p className="year">69%</p>
+                            <p className="year">CGPA: 7.29 (69%)</p>
 
             </div>
           </section>
