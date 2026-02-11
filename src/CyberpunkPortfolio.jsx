@@ -911,7 +911,7 @@ export default function CyberpunkPortfolio() {
               <h3>BBA (General)</h3>
               <p>Bangalore University</p>
               <p className="year">2022 – 2025</p>
-              <br/>
+              
                             <p className="year">69%</p>
 
             </div>
