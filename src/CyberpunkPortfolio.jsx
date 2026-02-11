@@ -968,7 +968,7 @@ export default function CyberpunkPortfolio() {
 
         <footer>
           <p>&lt;/&gt; Crafted with code and creativity <span className="terminal-cursor"></span></p>
-          <p style={{ marginTop: '0.5rem', fontSize: '0.8rem' }}>© 2025 Yuraj Gupta. All rights reserved.</p>
+          <p style={{ marginTop: '0.5rem', fontSize: '0.8rem' }}>© 2026 Yuraj Gupta. All rights reserved.</p>
         </footer>
       </div>
     </div>
